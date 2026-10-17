@@ -1,6 +1,7 @@
 ## Hi, I'm Andre 👋
 
 **Business & Data Analyst** based in Dublin. I turn business problems into clear data, dashboards, and working products.
+
 MSc graduate · Open to **Business Analyst / Data Analyst** roles.
 
 ### 🚀 What I'm working on
