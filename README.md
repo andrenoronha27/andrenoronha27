@@ -1,4 +1,4 @@
-## Hi, I'm Andre 👋
+## Hey, I'm André 👋
 
 **Business & Data Analyst** based in Dublin. I turn business problems into clear data, dashboards, and working products.
 
