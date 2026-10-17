@@ -15,4 +15,4 @@ MSc graduate · Open to **Business Analyst / Data Analyst** roles.
 **Build:** JavaScript · Supabase · Netlify · Git
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:you@example.com) · [CV](https://YOUR-CV-LINK)
+[LinkedIn](https://www.linkedin.com/in/andrenoronha27) · [Email](mailto:andre.eduardonoronha@gmail.com) · [CV](https://YOUR-CV-LINK)
