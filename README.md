@@ -10,8 +10,11 @@ MSc graduate · Open to **Business Analyst / Data Analyst** roles.
 
 ### 🧰 Tools I use
 **Data:** Python · SQL · R · Pandas · scikit-learn
+
 **BI:** Power BI · Tableau · Excel
-**BA:** Jira · Agile/Scrum · Process Mapping · Requirements Gathering
+
+**BA:** Microsoft Dynamics 365 · Jira · Agile/Scrum · Process Mapping · Requirements Gathering
+
 **Build:** JavaScript · Supabase · Netlify · Git
 
 ### 📫 Reach me
